@@ -4,7 +4,7 @@
 
 📊 Skills: Python | SQL | Excel | Power BI  
 
-📧 Contact: kd0321k@gmail.com  
+📧 Contact: koushikdinda25@gmail.com  
 
 🔭 Currently practicing: Sales Analysis | Uber Trip Analysis  
 🌱 Learning: Generative AI  
